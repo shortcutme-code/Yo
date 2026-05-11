@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/nikzad-avasam/notifications/refs/heads/main/assets/notification.jpg"  />
 </div>
 
-## ⬇️ دانلود کننده فایل + 🌐 مرورگر وب ( نسخه ۲ )
+## ⬇️ دانلودر یوتیوب
 
 🎬 برای دانلود ویدیوهای یوتیوب از این پروژه استفاده کنید :‌
 
